@@ -31,4 +31,4 @@
 | [📌](https://maps.app.goo.gl/1bZvaQ3ocdFEZqp38) | خیابان رئیس علی دلواری | ❌ | رشن |
 | [📌](https://maps.app.goo.gl/Go9Pf1PAfRaqkpwj6) | خیابان بعثت | ❌ | لیکارد |
 | [📌](https://maps.app.goo.gl/hyntRez6znXyD4HQ6) | خیابان بعثت | ❌ | رلیش |
-
+| [📌](https://maps.app.goo.gl/MtHYb3P2exgWzFKs5) | پارک نسترن | ❌ | وال |
